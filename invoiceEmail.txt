@@ -1,0 +1,16 @@
+Hi ${PERSON_NAME}!
+
+Thank you for working with Campus Equipment Outfitters to create your custom clothing! Your package has arrived in Kingston, please  let me know of a time for pick up and payment that works for between today at our ARC sale between 11-4 or tomorrow between 2:30pm-4:30pm. 
+
+If none of these times work for you, we can set up another time. Please pay the total of ${MONEY_AMOUNT} in either cash or a cheque made out to Campus Equipment Outfitters. Please drop it off in our cubby in the Engsoc office or give it to one of us when you pick up your order. Alternatively, if you would like to pay with debit or credit, please let me know that you will be coming by our sale in the ARC today to complete the payment as well as pick up your package. 	
+
+If you have any questions, please feel free to ask!
+
+Thank you,
+
+Daniel Molyneaux
+Business and Operations Manager
+Campus Equipment Outfitters
+
+
+
